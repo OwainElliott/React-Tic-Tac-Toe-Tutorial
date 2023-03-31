@@ -1,5 +1,5 @@
 import React from 'react';
-
+//Will add changes to make this a 4 by 4 grid
 import { useState } from 'react';
 
 function Square({ value, onSquareClick, squareId, winningSquare }) {
